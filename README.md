@@ -1,6 +1,6 @@
 - 👋 Greetings! I have recently completed a bachelor's degree in Computer Science (Dec 2023).
 - 👀 I’m interested in entry level software development roles (full stack / frontend / backend / mobile). 
-- 🌱 I’m currently working on some personal projects  in 2024, after which I would be taking AWS and other certifications. 
+- 🌱 I’m currently working on some personal projects (web dev, iOS, Android, data)  in 2024, after which I would be taking AWS and other certifications. 
 - 💞️ I’m looking to collaborate on some projects in the future.
 - 📫 You may reach me via my email - tannelson@naver.com.
 - 😄 Pronouns: He / him
