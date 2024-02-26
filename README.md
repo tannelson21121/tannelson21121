@@ -1,12 +1,12 @@
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 Greetings! I'm Tan
 ===========================================================================================================================
 
-Recent Computer Science Graduate (Dec 2023)
+Recent Computer Science Graduate
 -------------------------------------------
 # 💫 About Me:
-🌍  I'm based in Singapore<br>🖥️  See my portfolio at https://mydevpa.ge/tannelson<br>🚀  I'm currently working on some deep learning / web development projects<br>🧠  I'm learning web development, AI, ML, data engineering<br>🤝  I'm open to collaborating on interesting projects
+🌍  I'm based in Singapore<br>🖥️  See my portfolio at https://mydevpa.ge/tannelson<br>🚀  I'm currently working on some personal C# and flutter projects (as of Feb / Mar '24)<br>🧠  I'm interested in web development, mobile apps, AI / ML, data engineering<br>🤝  I'm open to collaborating on interesting projects
 
 
 # 💻 Tech Stack:
