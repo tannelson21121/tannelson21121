@@ -6,7 +6,7 @@ Greetings! I'm Tan
 Recent Computer Science Graduate
 -------------------------------------------
 # 💫 About Me:
-🌍  I'm based in Singapore<br>🖥️  See my portfolio at https://mydevpa.ge/tannelson<br>🚀  I work on personal projects in my free time <br>🧠  I'm interested in web development, mobile apps, AI / ML, data engineering, devops <br>🤝  I'm open to collaborating on interesting projects
+🌍  I'm based in Singapore<br>🖥️  See my portfolio at https://mydevpa.ge/tannelson<br>🚀  I work on personal projects in my free time <br>🧠  I'm interested in network engineering and cyber security <br>🤝  I'm open to collaborating on interesting projects
 
 
 # 💻 Tech Stack:
